@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AloeStackView",
+        "repositoryURL": "https://github.com/marlimox/AloeStackView.git",
+        "state": {
+          "branch": null,
+          "revision": "28ef1e50cef1eb38512fae67eb45ddc508f9a9f8",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "LBTATools",
+        "repositoryURL": "https://github.com/EnesKaraosman/LBTATools",
+        "state": {
+          "branch": null,
+          "revision": "a7001a90e25f75ac360323f17844266060e29ad9",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SelectionList",
+        "repositoryURL": "https://github.com/yonat/SelectionList",
+        "state": {
+          "branch": null,
+          "revision": "6848c0884020702299798a4aef96f6de95f81719",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
